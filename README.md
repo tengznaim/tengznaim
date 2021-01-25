@@ -5,5 +5,6 @@
 ### I love...
 
 - technology as a whole.
+- solving problems through code 👨‍💻
 - cookies (the edible kind) 🍪
 - the colour turquoise.
