@@ -1,6 +1,6 @@
 ### Hi, I'm Naim! ✌
 
-- I'm a 3rd year CS student majoring in Artificial Intelligence at University of Malaya 🏫
+- I'm a final year CS student majoring in Artificial Intelligence at University of Malaya 🏫
 - Previously interned with the AI and Analytics team at Maxis and gained MLOps experience 💚
 - I love experimenting with data, machine learning algorithms and the maths behind them 👨‍💻
 - I also like building web apps, automating everything and exploring the various applications of AI 🤖
