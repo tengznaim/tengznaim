@@ -1,7 +1,7 @@
 ### Hi, I'm Naim! ✌
 
-- I'm a final year CS student majoring in Artificial Intelligence at University of Malaya 🏫
-- Previously interned with the AI and Analytics team at Maxis and gained MLOps experience 💚
+- I'm a first class CS graduate, specialising in Artificial Intelligence from University of Malaya 🏫
+- Previously interned with the MLOps department at the Analytics and AI team at Maxis 💚
 - I love experimenting with data, machine learning algorithms and the maths behind them 👨‍💻
 - I also like building web apps, automating everything and exploring the various applications of AI 🤖
 
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ### 🔧 Cloud and Miscellaneous:
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
 
 ### 👋 Connect With Me!
 <a href="https://www.linkedin.com/in/tengku-naim
