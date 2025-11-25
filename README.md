@@ -1,8 +1,8 @@
 ### Hi, I'm Naim! ✌
 
-Currently looking at a lot of futsal footage and building the next generation of sports analytics @ [CourtIQ](courtiq.co)
+Currently looking at a lot of futsal footage and building the next generation of sports analytics @ [CourtIQ](https://courtiq.co)
 
-Prev. DS @ [Coda](coda.co), MLOps Intern @ [Maxis](maxis.com.my)
+Prev. DS @ [Coda](https://coda.co), MLOps Intern @ [Maxis](https://maxis.com.my)
 
 CS (AI) Alum from UM 🏫
 
